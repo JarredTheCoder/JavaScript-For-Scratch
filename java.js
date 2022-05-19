@@ -82,7 +82,7 @@ class JavaScriptScratch {
     
 
 
-    return alert(args.ON);
+    return alert(args.ONE);
 
   }
 
